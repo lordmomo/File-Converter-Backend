@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<StudentMarkSheet>
+	<StudentInformation>
+		<StudentID>{StudentId}</StudentID>
+		<Name>{Name}</Name>
+		<Address>{Address}</Address>
+		<Grade>{Grade}</Grade>
+		<Contact>{Contact}</Contact>
+		<FatherName>{FathersName}</FatherName>
+		<MotherName>{MothersName}</MotherName>
+	</StudentInformation>
+	<AcademicDetails>
+		<SubjectMarks>
+			<Subject>Maths</Subject>
+			<MarksObtained>{Maths}</MarksObtained>
+			<TotalMarks>100</TotalMarks>
+		</SubjectMarks>
+		<SubjectMarks>
+			<Subject>English</Subject>
+			<MarksObtained>{English}</MarksObtained>
+			<TotalMarks>100</TotalMarks>
+		</SubjectMarks>
+		<SubjectMarks>
+			<Subject>Nepali</Subject>
+			<MarksObtained>{Nepali}</MarksObtained>
+			<TotalMarks>100</TotalMarks>
+		</SubjectMarks>
+		<SubjectMarks>
+			<Subject>Computer</Subject>
+			<MarksObtained>{Computer}</MarksObtained>
+			<TotalMarks>100</TotalMarks>
+		</SubjectMarks>
+	</AcademicDetails>
+	<OverallResult>
+		<TotalMarksObtained>{TotalMarksObtained}</TotalMarksObtained>
+		<Percentage>{Percentage}</Percentage>
+		<Result>{Result}</Result>
+	</OverallResult>
+</StudentMarkSheet>

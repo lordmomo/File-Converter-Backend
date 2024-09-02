@@ -1,0 +1,23 @@
+﻿Student Mark Sheet
+
+Student Information:
+Student ID: {StudentId}
+Name: {Name}
+Address: {Address}
+Grade: {Grade}
+Contact: {Contact}
+Father's Name: {FathersName}
+Mother's Name: {MothersName}
+
+Academic Details:
+Subject         | Marks Obtained	| Total Marks 
+--------------------------------------------------------
+Maths			| {Maths}			| 100   
+English			| {English}			| 100   
+Nepali			| {Nepali}			| 100   
+Computer		| {Computer}		| 100   
+
+Overall Result:
+Total Marks Obtained: {TotalMarksObtained}
+Percentage: {Percentage}%
+Result: {Result}
